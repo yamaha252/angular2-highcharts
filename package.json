@@ -34,7 +34,6 @@
     "@angular/platform-browser": "^2.1.1",
     "@angular/platform-browser-dynamic": "^2.1.1",
     "@angular/platform-server": "^2.1.1",
-
     "core-js": "^2.4.1",
     "http-server": "^0.9.0",
     "jasmine-core": "~2.5.2",
@@ -46,12 +45,11 @@
     "systemjs": "0.19.39",
     "typescript": "^2.0.3",
     "zone.js": "^0.6.25",
-
     "@types/es6-shim": "^0.31.32",
     "@types/jasmine": "^2.2.34"
   },
   "dependencies": {
-    "@types/highcharts": "^4.2.36",
-    "highcharts": "^5.0.2"
+    "@types/highcharts": "^4.2.44",
+    "highcharts": "^5.0.6"
   }
 }
